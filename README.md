@@ -1,6 +1,4 @@
-# chess_app
-
-A new Flutter project.
+# Flutter Chess App
 
 ## Getting Started
 
